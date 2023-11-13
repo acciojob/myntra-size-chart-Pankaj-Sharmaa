@@ -10,12 +10,28 @@
             margin-top: 20px;
         }
 
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
+        td,tr{
+			border:solid
+		}
+			 
         }
 
         th {
-            background-color: #f2f2f2;
+            background:#a6281c;
         }
+             #q{
+				 background:#a62
+				  border: solid;
+            padding: 8px;
+            text-align: left;
+			 
+			 }
+            #w{
+				 background:#c9bbb9;
+			 }
+           #e{
+				 background:#a6281c;
+			 }
+            #r{
+				 background::#a6281c;
+			 }
